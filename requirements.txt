@@ -1,0 +1,6 @@
+streamlit>=1.40
+python-dotenv>=1.0
+langchain>=1.0
+langgraph>=1.0
+langchain-groq>=0.3
+langchain-openai>=0.3
